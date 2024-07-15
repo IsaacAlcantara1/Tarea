@@ -1,0 +1,15 @@
+C:\Users\alcan\source\repos\maquinacafe\maquinacafe\bin\Debug\net8.0\maquinacafe.exe
+C:\Users\alcan\source\repos\maquinacafe\maquinacafe\bin\Debug\net8.0\maquinacafe.deps.json
+C:\Users\alcan\source\repos\maquinacafe\maquinacafe\bin\Debug\net8.0\maquinacafe.runtimeconfig.json
+C:\Users\alcan\source\repos\maquinacafe\maquinacafe\bin\Debug\net8.0\maquinacafe.dll
+C:\Users\alcan\source\repos\maquinacafe\maquinacafe\bin\Debug\net8.0\maquinacafe.pdb
+C:\Users\alcan\source\repos\maquinacafe\maquinacafe\obj\Debug\net8.0\maquinacafe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alcan\source\repos\maquinacafe\maquinacafe\obj\Debug\net8.0\maquinacafe.AssemblyInfoInputs.cache
+C:\Users\alcan\source\repos\maquinacafe\maquinacafe\obj\Debug\net8.0\maquinacafe.AssemblyInfo.cs
+C:\Users\alcan\source\repos\maquinacafe\maquinacafe\obj\Debug\net8.0\maquinacafe.csproj.CoreCompileInputs.cache
+C:\Users\alcan\source\repos\maquinacafe\maquinacafe\obj\Debug\net8.0\maquinacafe.sourcelink.json
+C:\Users\alcan\source\repos\maquinacafe\maquinacafe\obj\Debug\net8.0\maquinacafe.dll
+C:\Users\alcan\source\repos\maquinacafe\maquinacafe\obj\Debug\net8.0\refint\maquinacafe.dll
+C:\Users\alcan\source\repos\maquinacafe\maquinacafe\obj\Debug\net8.0\maquinacafe.pdb
+C:\Users\alcan\source\repos\maquinacafe\maquinacafe\obj\Debug\net8.0\maquinacafe.genruntimeconfig.cache
+C:\Users\alcan\source\repos\maquinacafe\maquinacafe\obj\Debug\net8.0\ref\maquinacafe.dll
